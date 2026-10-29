@@ -1,4 +1,4 @@
-# Flat Hunter
+# Multi-Criteria Flat Scoring Tool
 
 A weighted multi-criteria scoring tool for comparing rental flats.
 
